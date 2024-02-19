@@ -1,0 +1,5 @@
+Changes:
+
+1. Colors changed to light grey and navy blue.
+2. Circles used for grid instead of squares.
+3. Text input area is at the bottom of the chat history and not at the bottom of the whole frame.
